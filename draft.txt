@@ -1,0 +1,58 @@
+1. What are the basic parts of a computer?
+  The basic parts of a computer are:
+    • Input Devices – Used to enter data (keyboard, mouse, scanner, microphone)
+    • Output Devices – Show results (monitor, printer, speakers)
+    • System Unit – Main case containing internal hardware
+    • Storage Devices – Store data (HDD, SSD, USB drive)
+    • Communication Devices – Allow network access (LAN card, Wi-Fi adapter)
+
+2. What are the basic hardware components inside the system unit?
+  • Motherboard – Main circuit board connecting all components
+  • CPU (Processor) – Brain of the computer; performs calculations
+  • RAM (Memory) – Temporary working memory
+  • Storage Drive (HDD/SSD) – Permanent data storage
+  • Power Supply Unit (PSU) – Supplies electricity
+  • Graphics Card (GPU) – Handles image and video processing
+  • Cooling System – Fans or liquid cooling to prevent overheating
+
+3. What is RAM and what is its function?
+  - RAM (Random Access Memory) is temporary memory that stores data and programs currently being used by the CPU. 
+  - It allows fast access to information, making the system run smoothly. 
+  - Data in RAM is lost when the computer is turned off.
+
+4. What is the difference between 32-bit and 64-bit systems?
+  - 32-bit systems support up to 4 GB of RAM and are slower with heavy tasks. 
+  - 64-bit systems support more than 4 GB of RAM, handle larger data at once, and perform better for multitasking.
+
+5. What is the history of AMD processors?
+  - AMD was founded in 1969. 
+  - In the 1990s it competed with Intel using Athlon processors. 
+  - In 2003, AMD released the first consumer 64-bit CPU (Athlon 64). 
+  - In 2017, AMD introduced Ryzen processors, which greatly improved performance and competitiveness.
+
+6. What is the history of Intel processors?
+  - Intel released the first commercial microprocessor, the 4004, in 1971. 
+  - The Pentium series became popular in the 1990s. 
+  - In 2006, Intel launched the Core series (i3, i5, i7), which are widely used today.
+
+7. What is the difference between SSD and HDD?
+  - HDDs use spinning disks and are slower but cheaper. 
+  - SSDs use flash memory, are much faster, more durable, silent, and more expensive.
+
+8. What is the history of computer storage?
+  - Early storage included punch cards and magnetic tape. 
+  - Floppy disks were common in the 1980s–1990s. 
+  - Hard disk drives provided larger storage capacity. 
+  - Solid state drives are modern, faster storage devices with no moving parts. 
+  - Cloud storage now allows data to be stored online.
+
+9. How does a graphics card work?
+  - A graphics card uses a GPU to process visual data. 
+  - The CPU sends visual information to the GPU, which processes geometry, lighting, and textures. 
+  - The final image is stored in VRAM and sent to the monitor.
+
+10. What is the history of graphics cards?
+  - Early graphics in the 1980s supported only basic 2D images. 
+  - In the 1990s, 3D graphics cards improved gaming visuals. 
+  - In the 2000s, programmable GPUs allowed advanced effects. 
+  - Today, GPUs are used in AI, video editing, and scientific computing.
