@@ -3,13 +3,13 @@
     • Input Devices – Used to enter data (keyboard, mouse, scanner, microphone)
     • Output Devices – Show results (monitor, printer, speakers)
     • System Unit – Main case containing internal hardware
-    • Storage Devices – Store data (HDD, SSD, USB drive)
-    • Communication Devices – Allow network access (LAN card, Wi-Fi adapter)
+    • Storage Devices – Store data (HDD (Hard Disk Drive), SSD (Solid State Drive), USB (Universal Serial Bus) drive)
+    • Communication Devices – Allow network access (LAN (Local Area Network) card, Wi-Fi (Wireless Fidelity) adapter)
 
 2. What are the basic hardware components inside the system unit?
   • Motherboard – Main circuit board connecting all components
-  • CPU (Processor) – Brain of the computer; performs calculations
-  • RAM (Memory) – Temporary working memory
+  • CPU (Central Processing Unit) – Brain of the computer; performs calculations
+  • RAM (Random Access Memory) – Temporary working memory
   • Storage Drive (HDD/SSD) – Permanent data storage
   • Power Supply Unit (PSU) – Supplies electricity
   • Graphics Card (GPU) – Handles image and video processing
@@ -25,7 +25,7 @@
   - 64-bit systems support more than 4 GB of RAM, handle larger data at once, and perform better for multitasking.
 
 5. What is the history of AMD processors?
-  - AMD was founded in 1969. 
+  - AMD (Advanced Micro Devices) was founded in 1969. 
   - In the 1990s it competed with Intel using Athlon processors. 
   - In 2003, AMD released the first consumer 64-bit CPU (Athlon 64). 
   - In 2017, AMD introduced Ryzen processors, which greatly improved performance and competitiveness.
@@ -56,3 +56,32 @@
   - In the 1990s, 3D graphics cards improved gaming visuals. 
   - In the 2000s, programmable GPUs allowed advanced effects. 
   - Today, GPUs are used in AI, video editing, and scientific computing.
+
+Acronyms: 
+  CPU – Central Processing Unit
+  RAM – Random Access Memory
+  ROM – Read-Only Memory
+  PSU – Power Supply Unit
+  GPU – Graphics Processing Unit
+  VRAM – Video Random Access Memory
+  HDD – Hard Disk Drive
+  SSD – Solid State Drive
+  USB – Universal Serial Bus
+  LAN – Local Area Network
+  Wi-Fi – Wireless Fidelity
+  PCIe – Peripheral Component Interconnect Express
+  HDMI – High-Definition Multimedia Interface
+  VGA – Video Graphics Array
+  DVI – Digital Visual Interface
+  FPS – Frames Per Second
+  AMD – Advanced Micro Devices
+  GHz – Gigahertz
+  MB – Megabyte
+  GB – Gigabyte
+  TB – Terabyte
+  OS – Operating System
+  BIOS – Basic Input/Output System
+  UEFI – Unified Extensible Firmware Interface
+  SATA – Serial Advanced Technology Attachment
+  NVMe – Non-Volatile Memory Express
+  RAID – Redundant Array of Independent Disks
